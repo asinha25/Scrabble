@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble", "Scrabble\Scrabble.csproj", "{E50B7680-2DF9-4954-B8DD-67DEE0CA0759}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSLibrary", "FSLibrary\FSLibrary.fsproj", "{F8AD1DA9-F588-493F-ACA5-C7050EE25216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50B7680-2DF9-4954-B8DD-67DEE0CA0759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50B7680-2DF9-4954-B8DD-67DEE0CA0759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50B7680-2DF9-4954-B8DD-67DEE0CA0759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50B7680-2DF9-4954-B8DD-67DEE0CA0759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AD1DA9-F588-493F-ACA5-C7050EE25216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AD1DA9-F588-493F-ACA5-C7050EE25216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AD1DA9-F588-493F-ACA5-C7050EE25216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AD1DA9-F588-493F-ACA5-C7050EE25216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727AB711-C3A1-4DF4-9DAE-7BD20CCE5F03}
+	EndGlobalSection
+EndGlobal

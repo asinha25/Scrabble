@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\FSharp.Core.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.pdb
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.xml
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.Form1.resources
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.Cache
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.pdb

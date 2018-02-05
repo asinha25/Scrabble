@@ -1,0 +1,9 @@
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\Aditya\Desktop\Project 5\project05-files\Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.pdb
